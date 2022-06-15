@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="icon-play-video" transform="translate(0 -0.384)">
+    <circle id="Ellipse_29" data-name="Ellipse 29" cx="40" cy="40" r="40" transform="translate(0 0.384)" fill="#fff" opacity="0.239"/>
+    <g id="play_circle_black_24dp_1_1" data-name="play_circle_black_24dp (1) 1" transform="translate(6 6)">
+      <g id="Group" transform="translate(0 0)">
+        <rect id="Vector" width="69" height="68" transform="translate(0 0.384)" fill="none"/>
+      </g>
+      <g id="Group-2" data-name="Group" transform="translate(4 5)">
+        <path id="Vector-2" data-name="Vector" d="M28.5,57A28.508,28.508,0,0,1,17.406,2.24,28.507,28.507,0,0,1,39.593,54.76,28.324,28.324,0,0,1,28.5,57ZM24.235,18.036a2.861,2.861,0,0,0-2.86,2.854V36.109a2.861,2.861,0,0,0,2.86,2.854,2.8,2.8,0,0,0,1.529-.46l11.827-7.609a2.85,2.85,0,0,0,0-4.788L25.764,18.5A2.8,2.8,0,0,0,24.235,18.036Z" transform="translate(0 0.384)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
